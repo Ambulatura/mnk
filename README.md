@@ -1,4 +1,4 @@
-# MNK
+# mnk Game Engine
 Basic 2D rendering engine
 
 # Media
