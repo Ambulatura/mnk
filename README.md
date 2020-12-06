@@ -1,5 +1,5 @@
 # mnk Game Engine
-Basic 2D rendering engine in C++.
+mnk is basic 2D rendering engine written in C++. It can render sprites, fonts and work with audio.
 
 # Media
 Gifs have low frame rate due to gif recorder. (VSync on)
